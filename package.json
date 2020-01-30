@@ -1,0 +1,23 @@
+{
+  "name": "scrobble-bot",
+  "version": "1.0.0",
+  "description": "scrobble bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Paveethan Ramaneeswaran",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^5.4.3",
+    "discord.js": "^11.5.1",
+    "googleapis": "^47.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
