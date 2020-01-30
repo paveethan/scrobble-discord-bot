@@ -1,0 +1,8 @@
+{
+	"token": "test",
+	"prefixes": [",","!","."],
+	"apiKey": "test",
+	"youtubeApi": "test",
+	"spotifyClientId": "t",
+	"spotifyClientSecret": "test"
+}
