@@ -1,8 +1,8 @@
 {
-	"token": "test",
-	"prefixes": [",","!","."],
-	"apiKey": "test",
-	"youtubeApi": "test",
-	"spotifyClientId": "t",
-	"spotifyClientSecret": "test"
+	"token": "discordTokenGoesHere",
+	"prefixes": "!",
+	"apiKey": "lastFMApiKeyGoesHere",
+	"youtubeApi": "youtubeApiKeyGoesHere",
+	"spotifyClientId": "spotifyClientIDGoesHere",
+	"spotifyClientSecret": "spotifyClientSecretGoesHere"
 }
